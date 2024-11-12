@@ -32,7 +32,10 @@ load from tb_work_holiday.unl insert into tb_work_holiday;
 
 **注意：**
 已经按照现在官方通告，更新到了2024年（含）的节假日。后续应根据最新官方通告更新相应的记录。  
-农历数据来源：[香港天文台](https://www.hko.gov.hk/sc/gts/time/conversion.htm)
+农历数据来源：[香港天文台](https://www.hko.gov.hk/sc/gts/time/conversion.htm)  
+- 更新日期： 2024-11-12  
+2025年假日信息sql语句T2025.sql  
+
 - 更新日期： 2024-03-01  
 2024年（不含）之后的假日信息（daytpe 仅定义了 1周末假和0工作日）。  
 
